@@ -16,6 +16,4 @@ Cards dos filmes do Studio Ghibli feitos em HTML e CSS inspirado no projeto do d
 
 - [Twitter](twitter.com/ceIenny)
 
-- [GitHub](https://github.com/celenny)
-
 - [LinkedIn](https://www.linkedin.com/in/celenny)
