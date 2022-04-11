@@ -1,4 +1,4 @@
-# Cadastro de DEV
+# Cards em HTML e CSS
 
 Cards dos filmes do Studio Ghibli feitos em HTML e CSS inspirado no projeto do desenvolvedor Markzuel. 
 
